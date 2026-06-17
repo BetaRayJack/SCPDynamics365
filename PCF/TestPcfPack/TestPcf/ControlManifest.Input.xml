@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="SCPDynamics365" constructor="TestPcf" version="1.0.2" display-name-key="TestPcf" description-key="TestPcf description" control-type="standard">
+    <external-service-usage enabled="false" />
+    <property name="value" display-name-key="Value_Display_Key" description-key="Value_Description_Key" of-type="SingleLine.Text" usage="bound" required="false" />
+    <resources>
+      <code path="index.ts" order="1" />
+    </resources>
+  </control>
+</manifest>

@@ -5,3 +5,4 @@
 /.vs/SCPDynamics365
 *.json
 *.sqlite
+/.github/copilot-instructions.md
